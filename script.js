@@ -1,3 +1,18 @@
+/* En la Pagina del proyecto final es una Pagina de Running con  varios secciones 
+-  links con los Teams de Running de la ciudad.
+- selecion de rutinas de entrenamiento genericas segun la distancia elegida-
+- consejos nutrionales
+- CALCULADORA,  En el codigo siguiente hay algunos de los calculos que realizara la calculadora de running.
+Ej:
+-Ritmo segun la Distancia y el tiempo
+-Estimacion de tiempo en una distancia elegida basandonos en una carrera realizada.
+-Calculo de IMC Indice de masa corporal
+- Zonas de Entrenamiento 
+
+*/
+
+
+
 //Programa Principal
 let  nombre = prompt("Ingrese su Nombre ")
 let edad = prompt("Ingrese su edad")
